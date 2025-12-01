@@ -1,3 +1,5 @@
+# token-encoding constructors varients - from OpenAI
+
 from tiktoken.load import data_gym_to_mergeable_bpe_ranks, load_tiktoken_bpe
 
 ENDOFTEXT = "<|endoftext|>"
